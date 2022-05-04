@@ -1,1 +1,1 @@
-1. First Test repo on Complete Ruby on Rails Developer by Chema Martinez
+1. First Test repo on Complete Ruby on Rails Developer by Chema
